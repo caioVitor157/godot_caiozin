@@ -1,0 +1,11 @@
+[gd_scene format=3 uid="uid://j4es2ij7fkj8"]
+
+[node name="Node2D" type="Node2D"]
+position = Vector2(4191, 2211)
+
+[node name="Label" type="Label" parent="."]
+offset_left = -23.0
+offset_top = -32.0
+offset_right = 83.0
+offset_bottom = 31.0
+text = "salve kkkk"
